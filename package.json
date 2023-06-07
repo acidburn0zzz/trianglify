@@ -41,7 +41,7 @@
     "canvas": false
   },
   "devDependencies": {
-    "browserify": "^9.0.3",
+    "browserify": "^17.0.0",
     "chai": "^2.1.0",
     "del": "^0.1.1",
     "gulp": "^3.8.6",
